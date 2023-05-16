@@ -3,4 +3,6 @@ Repositório para o envio dos desafios propostos pela target sistemas
 
 ## Criação deste repositório para as posteriores atualizações com os desafios completos
 
-O envio deste repositório esta sendo feito agora por problemas na minha máquina que esta desligando sozinha e estou com receio de perder o desafio se o computador desligar sozinho e eu perder a oportunidade de fazer os envios. 
+Consegui subir os desafios que fiz em Java, não conseguindo fazer o Ex 3. 
+
+Também estou impossibilitado de desenvolver em Python por problemas técnicos. Tentarei subir os 2 que fiz em Python ainda essa semana.  
